@@ -24,8 +24,8 @@ import (
 
 	"github.com/hongbook/hms-push-server-go/src/httpclient"
 	"github.com/hongbook/hms-push-server-go/src/push/constant"
-	"pushkit-go-sample/push/model"
-	"pushkit-go-sample/push/verify"
+	"github.com/hongbook/hms-push-server-go/src/push/model"
+	"github.com/hongbook/hms-push-server-go/src/push/verify"
 )
 
 // SendMessage sends a message to huawei cloud common
